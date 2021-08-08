@@ -1,7 +1,3 @@
-/**
- * Alibaba.com Inc.
- * Copyright (c) 1999-2021 All Rights Reserved.
- */
 package com.bella.design.patterns.strategy;
 
 import java.text.MessageFormat;
@@ -9,7 +5,7 @@ import java.text.MessageFormat;
 /**
  * 地铁策略
  *
- * @author linru.llr
+ * @author Bella酱
  * @date 2021/08/08
  */
 public class SubwayStrategy implements Strategy {

@@ -1,13 +1,9 @@
-/**
- * Alibaba.com Inc.
- * Copyright (c) 1999-2021 All Rights Reserved.
- */
 package com.bella.design.patterns.strategy;
 
 /**
  * 上下文
  *
- * @author linru.llr
+ * @author Bella酱
  * @date 2021/08/08
  */
 public class Context {
